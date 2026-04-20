@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">MedDrip project preview</title>
+  <desc id="desc">Dashboard preview for MedDrip intelligent saline monitoring system.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#072334"/>
+      <stop offset="55%" stop-color="#101124"/>
+      <stop offset="100%" stop-color="#2a1242"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <circle cx="1060" cy="120" r="220" fill="#22d3ee" fill-opacity="0.18"/>
+  <circle cx="170" cy="560" r="220" fill="#a855f7" fill-opacity="0.16"/>
+  <rect x="84" y="64" width="1112" height="592" rx="34" fill="#0b1020" fill-opacity="0.86" stroke="#ffffff" stroke-opacity="0.14"/>
+  <rect x="120" y="104" width="1040" height="50" rx="14" fill="#121938"/>
+  <circle cx="152" cy="129" r="8" fill="#f87171"/>
+  <circle cx="178" cy="129" r="8" fill="#fbbf24"/>
+  <circle cx="204" cy="129" r="8" fill="#34d399"/>
+  <text x="238" y="136" fill="#9ca3af" font-family="Inter, Arial, sans-serif" font-size="18" letter-spacing="2">MEDDRIP LIVE CONSOLE</text>
+  <rect x="120" y="184" width="400" height="430" rx="20" fill="#0f1630" stroke="#ffffff" stroke-opacity="0.1"/>
+  <rect x="544" y="184" width="616" height="196" rx="20" fill="url(#panel)" stroke="#22d3ee" stroke-opacity="0.34"/>
+  <rect x="544" y="402" width="300" height="212" rx="20" fill="#0f1630" stroke="#ffffff" stroke-opacity="0.1"/>
+  <rect x="860" y="402" width="300" height="212" rx="20" fill="#0f1630" stroke="#ffffff" stroke-opacity="0.1"/>
+  <text x="154" y="248" fill="#e2e8f0" font-family="Space Grotesk, Arial, sans-serif" font-size="30" font-weight="700">Patient Bed 04</text>
+  <text x="154" y="286" fill="#67e8f9" font-family="Inter, Arial, sans-serif" font-size="18">Flow: 32 ml/min · Status: Stable</text>
+  <rect x="154" y="324" width="334" height="16" rx="8" fill="#1e293b"/>
+  <rect x="154" y="324" width="252" height="16" rx="8" fill="#22d3ee"/>
+  <text x="154" y="375" fill="#cbd5e1" font-family="Inter, Arial, sans-serif" font-size="16">Realtime alerts, saline level tracking, and auto-control.</text>
+  <text x="580" y="244" fill="#e2e8f0" font-family="Space Grotesk, Arial, sans-serif" font-size="28" font-weight="700">Monitoring Timeline</text>
+  <polyline points="580,320 660,280 740,300 820,244 900,266 980,228 1060,246 1140,210" fill="none" stroke="#22d3ee" stroke-width="6"/>
+  <text x="580" y="456" fill="#e2e8f0" font-family="Space Grotesk, Arial, sans-serif" font-size="24" font-weight="700">Critical Alerts</text>
+  <text x="580" y="494" fill="#cbd5e1" font-family="Inter, Arial, sans-serif" font-size="16">Low level notifications delivered instantly to caregivers.</text>
+  <text x="894" y="456" fill="#e2e8f0" font-family="Space Grotesk, Arial, sans-serif" font-size="24" font-weight="700">Auto Flow Control</text>
+  <text x="894" y="494" fill="#cbd5e1" font-family="Inter, Arial, sans-serif" font-size="16">Adjustments applied to maintain safe and consistent drip.</text>
+</svg>

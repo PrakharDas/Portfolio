@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Prakhar Das favicon</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#1d1032"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#bg)"/>
+  <rect x="7" y="7" width="50" height="50" rx="13" fill="none" stroke="url(#stroke)" stroke-width="2.5"/>
+  <path d="M20 46V18h14.5c6.7 0 11.5 3.8 11.5 10.7 0 7-4.8 11-11.5 11H27v6.3H20zm7-12.2h7c3.6 0 5.5-1.8 5.5-5.1 0-3.2-1.9-4.9-5.5-4.9h-7v10z" fill="#f8fafc"/>
+</svg>

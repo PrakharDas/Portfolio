@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Prakhar Das portfolio social preview</title>
+  <desc id="desc">Social share preview image for Prakhar Das developer portfolio.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#061a2b"/>
+      <stop offset="100%" stop-color="#1f1135"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <circle cx="980" cy="140" r="190" fill="#22d3ee" fill-opacity="0.2"/>
+  <circle cx="180" cy="500" r="170" fill="#a855f7" fill-opacity="0.2"/>
+  <rect x="74" y="72" width="1052" height="486" rx="28" fill="#0b1224" fill-opacity="0.84" stroke="#ffffff" stroke-opacity="0.14"/>
+  <text x="136" y="220" fill="#67e8f9" font-family="Inter, Arial, sans-serif" font-size="22" letter-spacing="8">SOFTWARE DEVELOPER PORTFOLIO</text>
+  <text x="136" y="300" fill="#ffffff" font-family="Space Grotesk, Arial, sans-serif" font-size="72" font-weight="700">Prakhar Das</text>
+  <text x="136" y="362" fill="#cbd5e1" font-family="Inter, Arial, sans-serif" font-size="30">Full-Stack · Flutter · IoT · AI</text>
+  <text x="136" y="430" fill="#94a3b8" font-family="Inter, Arial, sans-serif" font-size="24">Building modern products with practical impact.</text>
+</svg>
