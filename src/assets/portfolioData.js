@@ -244,7 +244,7 @@ export const contact = {
   email: 'prakhardas48@gmail.com',
   location: 'Boisar, Maharashtra',
   github: 'https://github.com/PrakharDas',
-  linkedin: 'https://www.linkedin.com/in/prakhardas',
+  linkedin: 'https://www.linkedin.com/in/prakhardas48',
 }
 
 export const projectFilters = ['All', 'Web', 'Flutter', 'AI', 'IoT']

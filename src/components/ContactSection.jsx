@@ -72,7 +72,7 @@ function ContactSection() {
                 target="_blank"
                 rel="noreferrer"
               >
-                linkedin.com/in/prakhardas
+                linkedin.com/in/prakhardas48
               </a>
             </div>
           </div>

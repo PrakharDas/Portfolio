@@ -119,7 +119,7 @@ A minimal closing footer with copyright.
 - Email: prakhardas48@gmail.com
 - Location: Boisar, Maharashtra
 - GitHub: github.com/PrakharDas
-- LinkedIn: linkedin.com/in/prakhardas
+- LinkedIn: linkedin.com/in/prakhardas48
 
 ## Getting Started
 
